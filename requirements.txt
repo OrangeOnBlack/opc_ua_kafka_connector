@@ -1,0 +1,9 @@
+opcua
+opcua-client
+pyqtgraph
+cryptography
+PyQt5
+kafka-python
+python-snappy
+lz4
+fastavro
